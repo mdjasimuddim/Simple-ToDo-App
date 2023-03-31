@@ -1,0 +1,32 @@
+.main{
+    text-align: center;
+
+}
+.main input{
+    width: 20%;
+    padding: 8px;
+}
+button{
+    padding: 10px 20px;
+    background-color: tomato;
+    color:white;
+    border: 0;
+    cursor: pointer;
+}
+.todo-item-div{
+    background-color: wheat;
+    width: 400px;
+    height: 400px;
+    box-shadow: 4px 5px 10px black;
+    padding: 10px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+li{
+    text-align: justify;
+    padding: 10px;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
